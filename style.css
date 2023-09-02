@@ -4,7 +4,7 @@ body {
 }
 
 header {
-    background-color: black;
+    background-color: #333;
     color: white;
     text-align: center;
     padding: 10px;
@@ -30,3 +30,4 @@ video {
 h1{
     color:blue;
     text-align:center;
+}
