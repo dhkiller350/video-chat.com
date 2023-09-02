@@ -4,7 +4,7 @@ body {
 }
 
 header {
-    background-color: grey;
+    background-color: black;
     color: white;
     text-align: center;
     padding: 10px;
@@ -18,7 +18,7 @@ header {
 
 video {
     width: 45%;
-    max-height: 300px;
+    max-height: 30px;
 }
 
 .chat-container {
@@ -26,3 +26,7 @@ video {
     padding: 10px;
     border: 1px solid #ccc;
 }
+
+h1{
+    color:blue;
+    text-align:center;
