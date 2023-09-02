@@ -27,4 +27,12 @@ video {
     border: 1px solid #ccc;
 }
 
+h1{
+    color:cyan;
+    text-align:center;
+}
 
+p{
+    color:blue;
+    text-align:center;
+}
